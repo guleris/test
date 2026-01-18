@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"csv","c":"EnrollmentData","l":"addCountry(String, double[])","u":"addCountry(java.lang.String,double[])"},{"p":"csv","c":"EnrollmentData","l":"EnrollmentData(int, int, int)","u":"%3Cinit%3E(int,int,int)","k":"3"},{"p":"csv","c":"EnrollmentData","l":"toString()"}];updateSearchResults();
